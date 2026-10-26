@@ -7,3 +7,8 @@ During the exploratory‐analysis phase, we examined the data’s overall distri
 For the machine‐learning modeling portion, we turned to Beijing’s air‐quality dataset and selected PM2.5, PM10, SO₂, NO₂, CO, and O₃ as predictor variables. We trained three regression models—Linear Regression, Gradient Boosting Regression, and Random Forest Regression—to forecast the AQI. The experiments showed that the Gradient Boosting model delivered the best performance, achieving the lowest mean squared error and the highest coefficient of determination. Scatter plots and residual‐distribution histograms further confirmed the model’s predictive accuracy and stability.
 
 In summary, through careful design and implementation, this project successfully achieved comprehensive collection, processing, and analysis of air‐quality data, providing robust tools for understanding and forecasting air quality. Its achievements not only offer valuable methods and insights for the field of air‐quality research but also supply a scientific basis for government agencies and environmental organizations when crafting policies and interventions. In the future, we plan to expand the dataset’s scope, explore more advanced machine‐learning algorithms, and apply our results in real‐world air‐quality management strategies to enhance model generalization and prediction accuracy, thus supporting the development of more effective air‐quality control policies.
+
+
+## Local setup
+
+See [SETUP.md](SETUP.md) for Python setup, offline checks, and notebook execution.

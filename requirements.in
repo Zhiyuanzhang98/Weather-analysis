@@ -1,0 +1,12 @@
+pandas
+numpy
+matplotlib
+seaborn
+scikit-learn
+openpyxl
+requests
+beautifulsoup4
+jupyterlab
+nbconvert
+nbformat
+ipykernel
